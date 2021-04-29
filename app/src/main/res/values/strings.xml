@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Bloom</string>
+    <string name="tag_line">Beautiful home garden solutions</string>
+    <string name="Create_account">Create account</string>
+    <string name="log_in">Log in</string>
+    <string name="Log_in_with_email">Log in with email</string>
+    <string name="Email_address">Email address</string>
+    <string name="Password">Password(8+characters)</string>
+    <string name="Terms_of_Use">Terms of Use</string>
+    <string name="By_Clicking_below">By clicking below, you agree to our</string>
+    <string name="and_consent">and consent to our</string>
+    <string name="Privacy">Privacy Policy</string>
+    <string name="Log_in">Log in</string>
+    <string name="Home">Home</string>
+    <string name="Favorites">Favorites</string>
+    <string name="Profile">Profile</string>
+    <string name="Cart">Cart</string>
+    <string name="Search">Search</string>
+    <string name="Desert_chic">Desert chic</string>
+    <string name="Tiny_terrariums">Tiny terrariums</string>
+    <string name="Jungle_vibes">Jungle vibes</string>
+    <string name="Easy_care">Easy care</string>
+    <string name="Statements">Statements</string>
+    <string name="Monstera">Monstera</string>
+    <string name="Algaonema">Algaonema</string>
+    <string name="Peace_lily">Peace lily</string>
+    <string name="Fiddle_leaf_tree">Fiddle leaf tree</string>
+    <string name="Snake_plant">Snake plant</string>
+    <string name="Pothos">Pothos</string>
+    <string name="Description">This is a description</string>
+    <string name="Design_home">Design your home garden</string>
+    <string name="Browse_themes">Browse themes</string>
+
+
+</resources>

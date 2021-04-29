@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="elevation_card">1dp</dimen>
+    <dimen name="elevation_snackbar">2dp</dimen>
+    <dimen name="elevation_Bottom_Navigation">16dp</dimen>
+    <dimen name="Button">8dp</dimen>
+
+</resources>
