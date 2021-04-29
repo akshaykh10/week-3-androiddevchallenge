@@ -7,9 +7,9 @@ Bloom is your home garden solutions.
 
 
 ## :bulb: Motivation and Context
-* This app is an entry for Week 3 AndroidDevChallenge
+* This app is not an entry for Week 3 AndroidDevChallenge as the deadline has passed
 * This was made using Jetpack compose
-
+* Enjoyed building this app.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
